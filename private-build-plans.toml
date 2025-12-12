@@ -1,0 +1,277 @@
+## name:     Kokosa Mono
+## author:   hatanokokosa (https://github.com/hatanokokosa)
+## license:  BSD 2-Clause
+
+[buildPlans.KokosaMono]
+family = "Kokosa Mono"
+spacing = "fontconfig-mono"
+serifs = "sans"
+noCvSs = true
+exportGlyphNames = true
+
+  [buildPlans.KokosaMono.variants]
+  inherits = "ss20"
+
+    [buildPlans.KokosaMono.variants.design]
+    one = "no-base-long-top-serif"
+    three = "flat-top-serifless"
+    four = "open-non-crossing-serifless"
+    five = "upright-flat-serifless"
+    six = "closed-contour"
+    seven = "curly-serifless"
+    eight = "two-circles"
+    nine = "closed-contour"
+    zero = "reverse-slashed-cutout"
+    capital-a = "round-top-serifless"
+    capital-b = "standard-unilateral-serifed"
+    capital-c = "unilateral-serifed"
+    capital-d = "standard-unilateral-serifed"
+    capital-e = "top-left-serifed"
+    capital-f = "top-left-serifed"
+    capital-g = "toothless-rounded-serifless-hooked"
+    capital-h = "top-left-serifed"
+    capital-i = "short-serifed"
+    capital-j = "descending-serifless"
+    capital-k = "curly-top-left-and-bottom-right-serifed"
+    capital-l = "motion-serifed"
+    capital-m = "slanted-sides-hanging-motion-serifed"
+    capital-n = "standard-motion-serifed"
+    capital-p = "open-serifless"
+    capital-q = "horizontal-tailed"
+    capital-r = "curly-open-serifless"
+    capital-s = "unilateral-serifed"
+    capital-t = "motion-serifed"
+    capital-u = "tailed-motion-serifed"
+    capital-v = "curly-motion-serifed"
+    capital-w = "rounded-vertical-sides-serifless"
+    capital-x = "curly-unilateral-motion-serifed"
+    capital-y = "curly-motion-serifed"
+    capital-z = "curly-serifless-with-crossbar"
+    a = "single-storey-earless-rounded-tailed"
+    b = "toothless-rounded-serifless"
+    d = "toothless-corner-serifless"
+    e = "rounded"
+    f = "flat-hook-serifless-crossbar-at-x-height"
+    g = "single-storey-flat-hook-earless-rounded"
+    h = "straight-top-left-serifed"
+    i = "serifless"
+    j = "diagonal-tailed-serifless"
+    k = "curly-top-left-and-bottom-right-serifed"
+    l = "diagonal-tailed"
+    m = "earless-corner-double-arch-serifless"
+    n = "earless-corner-straight-serifless"
+    p = "earless-rounded-serifless"
+    q = "earless-corner-diagonal-tailed-serifless"
+    r = "compact-serifless"
+    s = "unilateral-serifed"
+    t = "diagonal-tailed"
+    u = "toothless-rounded-serifless"
+    v = "straight-motion-serifed"
+    w = "cursive-serifless"
+    x = "semi-chancery-straight-serifless"
+    y = "cursive-serifless"
+    z = "straight-serifless-with-crossbar"
+    eszet = "longs-s-lig-serifless"
+    lower-delta = "flat-top"
+    asterisk = "hex-low"
+    paren = "large-contour"
+    brace = "curly-flat-boundary"
+    ampersand = "upper-open"
+    at = "fourfold-solid-inner"
+    dollar = "through-cap"
+    question = "corner-flat-hooked"
+    pilcrow = "curved"
+    lig-neq = "vertical"
+    lig-equal-chain = "without-notch"
+    lig-hyphen-chain = "without-notch"
+
+    [buildPlans.KokosaMono.variants.italic]
+    one = "no-base-long-top-serif"
+    three = "flat-top-serifless"
+    four = "open-non-crossing-serifless"
+    five = "upright-flat-serifless"
+    six = "closed-contour"
+    seven = "curly-serifless"
+    eight = "two-circles"
+    nine = "closed-contour"
+    zero = "reverse-slashed-cutout"
+    capital-a = "round-top-serifless"
+    capital-b = "standard-unilateral-serifed"
+    capital-c = "unilateral-serifed"
+    capital-d = "standard-unilateral-serifed"
+    capital-e = "top-left-serifed"
+    capital-f = "top-left-serifed"
+    capital-g = "toothless-rounded-serifless-hooked"
+    capital-h = "top-left-serifed"
+    capital-i = "short-serifed"
+    capital-j = "descending-serifless"
+    capital-k = "curly-top-left-and-bottom-right-serifed"
+    capital-l = "serifless"
+    capital-m = "slanted-sides-hanging-motion-serifed"
+    capital-n = "standard-motion-serifed"
+    capital-p = "open-serifless"
+    capital-q = "horizontal-tailed"
+    capital-r = "curly-open-serifless"
+    capital-s = "unilateral-serifed"
+    capital-t = "motion-serifed"
+    capital-u = "tailed-motion-serifed"
+    capital-v = "curly-motion-serifed"
+    capital-w = "rounded-vertical-sides-serifless"
+    capital-x = "curly-unilateral-motion-serifed"
+    capital-y = "curly-motion-serifed"
+    capital-z = "curly-serifless-with-crossbar"
+    a = "single-storey-earless-rounded-tailed"
+    b = "toothless-rounded-serifless"
+    d = "toothless-corner-serifless"
+    e = "rounded"
+    f = "flat-hook-serifless-crossbar-at-x-height"
+    g = "single-storey-flat-hook-earless-rounded"
+    i = "serifless"
+    j = "diagonal-tailed-serifless"
+    l = "diagonal-tailed"
+    m = "earless-corner-double-arch-serifless"
+    n = "earless-corner-straight-serifless"
+    p = "earless-rounded-serifless"
+    q = "earless-corner-diagonal-tailed-serifless"
+    r = "compact-serifless"
+    t = "diagonal-tailed"
+    u = "toothless-rounded-serifless"
+    w = "cursive-serifless"
+    x = "semi-chancery-straight-serifless"
+    y = "cursive-serifless"
+    eszet = "longs-s-lig-serifless"
+    lower-delta = "flat-top"
+    asterisk = "hex-low"
+    paren = "large-contour"
+    brace = "curly-flat-boundary"
+    ampersand = "upper-open"
+    at = "fourfold-solid-inner"
+    dollar = "through-cap"
+    question = "corner-flat-hooked"
+    pilcrow = "curved"
+    lig-neq = "vertical"
+    lig-equal-chain = "without-notch"
+    lig-hyphen-chain = "without-notch"
+
+    [buildPlans.KokosaMono.variants.oblique]
+    one = "no-base-long-top-serif"
+    three = "flat-top-serifless"
+    four = "open-non-crossing-serifless"
+    five = "upright-flat-serifless"
+    six = "closed-contour"
+    seven = "curly-serifless"
+    eight = "two-circles"
+    nine = "closed-contour"
+    zero = "reverse-slashed-cutout"
+    capital-a = "round-top-serifless"
+    capital-b = "standard-unilateral-serifed"
+    capital-c = "unilateral-serifed"
+    capital-d = "standard-unilateral-serifed"
+    capital-e = "top-left-serifed"
+    capital-f = "top-left-serifed"
+    capital-g = "toothless-rounded-serifless-hooked"
+    capital-h = "top-left-serifed"
+    capital-i = "short-serifed"
+    capital-j = "descending-serifless"
+    capital-k = "curly-top-left-and-bottom-right-serifed"
+    capital-l = "serifless"
+    capital-m = "slanted-sides-hanging-motion-serifed"
+    capital-n = "standard-motion-serifed"
+    capital-p = "open-serifless"
+    capital-q = "horizontal-tailed"
+    capital-r = "curly-open-serifless"
+    capital-s = "unilateral-serifed"
+    capital-t = "motion-serifed"
+    capital-u = "tailed-motion-serifed"
+    capital-v = "curly-motion-serifed"
+    capital-w = "rounded-vertical-sides-serifless"
+    capital-x = "curly-unilateral-motion-serifed"
+    capital-y = "curly-motion-serifed"
+    capital-z = "curly-serifless-with-crossbar"
+    a = "single-storey-earless-rounded-tailed"
+    b = "toothless-rounded-serifless"
+    d = "toothless-corner-serifless"
+    e = "rounded"
+    f = "flat-hook-serifless-crossbar-at-x-height"
+    g = "single-storey-flat-hook-earless-rounded"
+    i = "serifless"
+    j = "diagonal-tailed-serifless"
+    l = "diagonal-tailed"
+    m = "earless-corner-double-arch-serifless"
+    n = "earless-corner-straight-serifless"
+    p = "earless-rounded-serifless"
+    q = "earless-corner-diagonal-tailed-serifless"
+    r = "compact-serifless"
+    t = "diagonal-tailed"
+    u = "toothless-rounded-serifless"
+    w = "cursive-serifless"
+    x = "semi-chancery-straight-serifless"
+    y = "cursive-serifless"
+    eszet = "longs-s-lig-serifless"
+    lower-delta = "flat-top"
+    asterisk = "hex-low"
+    paren = "large-contour"
+    brace = "curly-flat-boundary"
+    ampersand = "upper-open"
+    at = "fourfold-solid-inner"
+    dollar = "through-cap"
+    question = "corner-flat-hooked"
+    pilcrow = "curved"
+    lig-neq = "vertical"
+    lig-equal-chain = "without-notch"
+    lig-hyphen-chain = "without-notch"
+
+  [buildPlans.KokosaMono.ligations]
+  inherits = "dlig"
+
+[buildPlans.KokosaMono.weights.Regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.KokosaMono.weights.Bold]
+shape = 700
+menu = 700
+css = 700
+
+[buildPlans.KokosaMono.weights.Light]
+shape = 300
+menu = 300
+css = 300
+
+[buildPlans.KokosaMono.weights.Medium]
+shape = 500
+menu = 500
+css = 500
+
+[buildPlans.KokosaMono.weights.SemiBold]
+shape = 600
+menu = 600
+css = 600
+
+[buildPlans.KokosaMono.widths.Condensed]
+shape = 500
+menu = 3
+css = "condensed"
+
+[buildPlans.KokosaMono.widths.Normal]
+shape = 600
+menu = 5
+css = "normal"
+
+[buildPlans.KokosaMono.widths.SemiCondensed]
+shape = 548
+menu = 4
+css = "semi-condensed"
+
+[buildPlans.KokosaMono.slopes.Upright]
+angle = 0
+shape = "upright"
+menu = "upright"
+css = "normal"
+
+[buildPlans.KokosaMono.slopes.Italic]
+angle = 9.4
+shape = "italic"
+menu = "italic"
+css = "italic"
