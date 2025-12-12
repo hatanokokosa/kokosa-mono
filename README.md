@@ -1,6 +1,6 @@
 ## Kokosa Mono
 
-Custom Iosevka build plan by [hatanokokosa](https://github.com/hatanokokosa/)
+Custom Iosevka build plan by [hatanokokosa](https://github.com/hatanokokosa/)  
 The font inherits the `ss20` stylistic set, ligatures enabled
 
 ## Plan quick facts
